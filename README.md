@@ -247,8 +247,7 @@ The project includes screenshots demonstrating the required functionality:
 1. **Short-Term Conversation Memory**
 2. **Long-Term Memory Saved**
 3. **Memory Retrieved in a New Conversation**
-4. **Memory Management**
-5. **Memory Deleted**
+4. **Memory Deleted**
 
 ---
 
